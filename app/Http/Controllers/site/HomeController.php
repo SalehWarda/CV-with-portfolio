@@ -34,7 +34,7 @@ class HomeController extends Controller
 
         $data['home']  = Home::Selection()->first();
         $data['about'] = About::Selection()->first();
-        $data['fact'] = Fact::Selection()->get();
+        $data['fact'] = Fact::Selection()->first();
         // $data['skill'] = Skill::Selection()->first();
         $data['summary'] = Sumary::Selection()->first();
         $data['educations'] = Education::Selection()->OrderBy('id', 'desc')->get();
