@@ -229,13 +229,13 @@
                 <div class="col-lg-6">
                     <h3 class="resume-title">Sumary</h3>
                     <div class="resume-item pb-0">
-                        <h4>{{ $summary->name }}</h4>
-                        <p><em>{{ $summary->t_a_y_s }}</em></p>
+                        {{-- <h4>{{ $summary->name }}</h4> --}}
+                        {{-- <p><em>{{ $summary->t_a_y_s }}</em></p>
                         <ul>
                             <li>{{ $summary->address }}</li>
                             <li>{{ $summary->phone }}</li>
                             <li>{{ $summary->email }}</li>
-                        </ul>
+                        </ul> --}}
                     </div>
 
                     <h3 class="resume-title">Education</h3>
