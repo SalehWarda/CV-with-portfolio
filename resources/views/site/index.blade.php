@@ -128,7 +128,7 @@
 
         </div>
     </section><!-- End About Section -->
-
+{{--
     <!-- ======= Facts Section ======= -->
     <section id="facts" class="facts">
         <div class="container" data-aos="fade-up">
@@ -179,7 +179,7 @@
             </div>
 
         </div>
-    </section><!-- End Facts Section -->
+    </section><!-- End Facts Section --> --}}
 
     {{-- <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
