@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
             LoginDataBaseSeeder::class,
             HomeDataBaseSeeder::class,
             AboutDataBaseSeeder::class,
-            SkillDataBaseSeeder::class,
+            // SkillDataBaseSeeder::class,
             FactDataBaseSeeder::class,
             SummaryDataBaseSeeder::class,
             EducationDataBaseSeeder::class,
