@@ -51,7 +51,7 @@
                         <!-- small box -->
                         <div class="small-box bg-success">
                             <div class="inner">
-                                <h3>{{$facts->projects}}</h3>
+                                {{-- <h3>{{$facts->projects}}</h3> --}}
 
                                 <p>Projects</p>
                             </div>
