@@ -36,7 +36,7 @@
                         <!-- small box -->
                         <div class="small-box bg-info">
                             <div class="inner">
-                                <h3>{{$facts->clients}}</h3>
+                                {{-- <h3>{{$facts->clients}}</h3> --}}
 
                                 <p>Clients</p>
                             </div>
