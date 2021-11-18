@@ -181,7 +181,7 @@
         </div>
     </section><!-- End Facts Section -->
 
-    <!-- ======= Skills Section ======= -->
+    {{-- <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
         <div class="container" data-aos="fade-up">
 
@@ -214,7 +214,7 @@
             </div>
 
         </div>
-    </section><!-- End Skills Section -->
+    </section><!-- End Skills Section --> --}}
 
     <!-- ======= Resume Section ======= -->
     <section id="resume" class="resume">
