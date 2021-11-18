@@ -515,7 +515,7 @@
 <!-- ======= Footer ======= -->
 <footer id="footer">
     <div class="container">
-        <h3>{{auth('admin')->user()->name}}</h3>
+        <h3></h3>
           <p><strong>{{$about->field_or_specialty}}.</strong></p>
         <div class="social-links">
 
