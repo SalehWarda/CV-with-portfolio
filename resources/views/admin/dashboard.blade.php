@@ -82,7 +82,7 @@
                         <!-- small box -->
                         <div class="small-box bg-danger">
                             <div class="inner">
-                                <h3>{{$facts->h_o_s}}</h3>
+                                {{-- <h3>{{$facts->h_o_s}}</h3> --}}
 
                                 <p>Hours Of Support</p>
                             </div>
